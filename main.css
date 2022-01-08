@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Open+Sans:wght@300&family=Zen+Kurenaido&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.main-container{
+	column-count: 1;
+	align-content: space-between;
+}
+#head2{
+	background-color: whitesmoke;
+}
+#ionh{
+	height: 13px;
+	width: 42px;
+	margin-right: 5px;
+}
+#comh{
+	height: 30px;
+	width: 42px;
+}
+.banner{
+	height: 150px;
+	width: 100%;
+	background-image: url('bluetriangle.jpg');
+}
+.banner-text{
+	padding-top: 27px;
+	font-size: 20px;
+}
+#text1{
+	color: yellow;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	height: 100vh;
+	width: 100%;
+}
+#text2{
+	color: white;
+}
+.insights{
+	height: 500px;
+	width: 100%;
+	background-color: #A3D1EE;
+}
+#pdf{
+	position: absolute;
+	left: 25%;
+	right: 0;
+}
+.pdf{
+   padding-top: 11px;
+}
+#insight-head{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 30px;
+}
+.steer{
+	height: 31rem;
+	width: 100%;
+	background-image: url('images/Compass/compass-bg.jpg');
+}
+#steer-text{
+	text-align: center;
+	font-weight: bolder;
+}
+table{
+	text-align: center;
+	margin-right: 3%;
+	margin-left: 3%;
+	margin-bottom: 20px;
+	background-color: #fff;
+	border: none;
+	border-collapse: collapse;
+}
+table, td, th{
+	border: 1px solid #9d9d9d;
+}
+.check{
+	height: 20px;
+	width: 30px;
+}
+.button{
+	 height: 35px;
+    width: 199px;
+    background-color: #0699ee;
+    color: white;
+    margin: 20px;
+    border-radius: 12px;
+    text-align: center;
+}
+td{
+	text-align: center;
+	height: max-content;
+}
+th{
+	width: 256px;
+    height: 78px;
+    margin: 6px;
+    text-align: center;
+}
+#free{
+	color: green;
+	font-weight: bolder;
+}
+#firstth{
+	background-color: #FAAA38;
+	color: white;
+}
+#secondth{
+	background-color: orange;
+	color: white;
+}
+#grey-th{
+	background-color: #CFCDCD;
+	text-align: initial;
+	font-weight: bolder;
+}
+#report{
+	font-size: 15px;
+	padding-top: 8px;
+}
+.container{
+ display: flex;
+ column-count: 1;
+ justify-content: center;
+ height: auto;
+ width: auto;
+}
+.container>div{
+	margin: 15px;
+}
+.carrer-fitment{
+	height: 320px;
+    width: 279px;
+    border-radius: 10px;
+	background-color: #fff;
+}
+.carrer-counselling{
+	height: 320px;
+    width: 279px;
+    border-radius: 10px;
+	background-color: #fff;
+}
+.fitment-reports{
+	background-color: cyan;
+}
+.carrer-fitment header{
+	height: 30px;
+    border-radius: 5px 5px 0px 0px;
+    color: white;
+}
+.carrer-counselling header{
+	height: 30px;
+    border-radius: 5px 5px 0px 0px;
+    color: white;
+}
+#fitment{
+	text-align: center;
+	background-color: #421cc3;
+}
+#counselling{
+	text-align: center;
+	background-color: orange;
+}
+#tucareer{
+	height: 100px;
+	width: 176px;
+	margin-left: 50px;
+}
+h5{
+	margin-left: 16px;
+}
+h3{
+	text-align: center;
+	background-color: #C2C0C0;
+	border-radius: 30px;
+	margin-right: 26px;
+}
+#fifty{
+	text-align: center;
+	background-color: #C2C0C0;
+	margin-top: 25px;
+	border-radius: 30px;
+	margin-right: 26px;
+}
+li{
+	font-size: 10px;
+}
+.report-container{
+	    margin-left: 26px;
+}
+.fees-container{
+	margin-top: 4px;
+}
+.fees-container #buy{
+	margin-top: 7px;
+}
+#buy{
+	text-align: center;
+	color: #0699ee;
+}
