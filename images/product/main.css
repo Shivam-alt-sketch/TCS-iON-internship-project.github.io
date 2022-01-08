@@ -1,0 +1,33 @@
+body{
+    column-count: 1;
+}
+#compass-logo{
+    height: 30px;
+    width: 40px;
+}
+#tcs-logo{
+    height: 14px;
+    width: 60px;
+}
+h2{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+.upper-header{
+    background-color: whitesmoke;
+}
+.banner-box{
+    margin: 35px;
+}
+#text1{
+    color: yellow;
+    font-weight: 100;
+}
+#text2{
+    color: white;
+}
+.insights{
+    color: rgb(170, 170, 206);
+}
