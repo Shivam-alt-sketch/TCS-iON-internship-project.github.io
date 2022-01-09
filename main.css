@@ -10,11 +10,15 @@
 }
 #head2{
 	background-color: whitesmoke;
+	font-family: 'Open Sans-bold', sans-serif;
 }
 #ionh{
 	height: 13px;
 	width: 42px;
 	margin-right: 5px;
+}
+#learner{
+	font-family: 'Open Sans-bold', sans-serif;
 }
 #comh{
 	height: 30px;
@@ -47,7 +51,7 @@ body{
 }
 #pdf{
 	position: absolute;
-	left: 25%;
+	left: 18%;
 	right: 0;
 }
 .pdf{
@@ -59,7 +63,7 @@ body{
 	font-size: 30px;
 }
 .steer{
-	height: 31rem;
+	height: 35rem;
 	width: 100%;
 	background-image: url('images/Compass/compass-bg.jpg');
 }
@@ -78,6 +82,10 @@ table{
 }
 table, td, th{
 	border: 1px solid #9d9d9d;
+}
+a{
+	color: white;
+	text-decoration: none;
 }
 .check{
 	height: 20px;
